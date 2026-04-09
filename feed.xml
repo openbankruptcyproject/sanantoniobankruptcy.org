@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>sanantoniobankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://sanantoniobankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sanantoniobankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://sanantoniobankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>San Antonio Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://sanantoniobankruptcy.org/" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free San Antonio bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>341 Meeting of Creditors in San Antonio, Texas -- What to Expect</title>
+    <link href="https://sanantoniobankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to the 341 meeting for San Antonio bankruptcy filers. What to bring, what questions are asked, and where it is held.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Automatic Stay in San Antonio Bankruptcy -- Stop Collections, Foreclosure, Garnishment</title>
+    <link href="https://sanantoniobankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How the automatic stay protects San Antonio residents when they file bankruptcy. Stops collections, foreclosure, repossession, and wage garnishment.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Accounts and Bankruptcy in San Antonio</title>
+    <link href="https://sanantoniobankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>What happens to your bank account in San Antonio bankruptcy? Texas wage protection, frozen accounts, exemptions, and protecting your money.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13? -- San Antonio</title>
+    <link href="https://sanantoniobankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You need trustee approval and a court motion to purchase a vehicle during Chapter 13. [San Antonio]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in San Antonio</title>
+    <link href="https://sanantoniobankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When can you buy a house after bankruptcy in San Antonio? FHA, VA, conventional waiting periods, Texas homestead, JBSA military loans, and credit.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy -- San Antonio</title>
+    <link href="https://sanantoniobankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. [San Antonio]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Eligibility in San Antonio</title>
+    <link href="https://sanantoniobankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility for San Antonio filers. Debt limits, income requirements, plan length, prior filing restrictions, and W.D. Tex. dismissal rate.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in San Antonio</title>
+    <link href="https://sanantoniobankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 plan payments work in San Antonio. Calculation, trustee distribution, modification, and the 62.6% dismissal rate.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in San Antonio -- Payment Plans, Dismissal Rates, Timeline</title>
+    <link href="https://sanantoniobankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://sanantoniobankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in San Antonio. Payment plan basics, W.D. Tex. dismissal rate (62.6%), timeline, and what to expect.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
