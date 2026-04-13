@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Find Your Bankruptcy District -- San Antonio Bankruptcy Guide</title>
+<title>Find Your Bankruptcy District - San Antonio Bankruptcy Guide</title>
 <meta name="description" content="Enter your zip code to find which federal bankruptcy district covers your area in the San Antonio metro. Free lookup tool from the Open Bankruptcy Project.">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="canonical" href="https://sanantoniobankruptcy.org/district-lookup.html">
@@ -56,7 +56,7 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Find Your Bankruptcy District -- San Antonio Bankruptcy Guide",
+          "name": "Find Your Bankruptcy District - San Antonio Bankruptcy Guide",
           "item": "https://sanantoniobankruptcy.org"
         },
         {
@@ -159,7 +159,7 @@ ul{margin:12px 0 12px 24px}li{margin-bottom:6px}
 </head>
 <body>
 <nav><div class="container"><a href="/" class="brand">San Antonio Bankruptcy Guide</a><div class="links"><a href="/">Home</a><a href="chapter-7.html">Chapter 7</a><a href="chapter-13.html">Chapter 13</a><a href="exemptions.html">Exemptions</a><a href="cost.html">Cost</a><a href="counties.html">Counties</a><a href="faq.html">FAQ</a><a href="https://openbankruptcyproject.org">OBP</a></div></div></nav>
-<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://sanantoniobankruptcy.org">Find Your Bankruptcy District -- San Antonio Bankruptcy Guide</a><span class="separator">&rsaquo;</span><span>Find Your Bankruptcy District</span></nav>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://sanantoniobankruptcy.org">Find Your Bankruptcy District - San Antonio Bankruptcy Guide</a><span class="separator">&rsaquo;</span><span>Find Your Bankruptcy District</span></nav>
 
 
 <div class="hero"><div class="container">
@@ -270,11 +270,11 @@ function lookupDistrict(){
   var p=parseInt(zip.substring(0,3));
   var d=null;
   if(p>=780&&p<=789){d={name:'Western District of Texas (W.D. Tex.)',court:'615 E Houston St, San Antonio, TX 78205',phone:'(210) 472-4023',link:'/',linkText:'San Antonio Bankruptcy Guide'};}
-  else if(p>=790&&p<=799){d={name:'Western District of Texas (W.D. Tex.) -- El Paso/Lubbock Division',court:'615 E Houston St, San Antonio, TX 78205 (main) | El Paso: 511 E San Antonio Ave, El Paso, TX 79901',phone:'(210) 472-4023',link:'/',linkText:'San Antonio Bankruptcy Guide'};}
+  else if(p>=790&&p<=799){d={name:'Western District of Texas (W.D. Tex.) - El Paso/Lubbock Division',court:'615 E Houston St, San Antonio, TX 78205 (main) | El Paso: 511 E San Antonio Ave, El Paso, TX 79901',phone:'(210) 472-4023',link:'/',linkText:'San Antonio Bankruptcy Guide'};}
   else if(p>=733&&p<=739){d={name:'Western District of Texas (W.D. Tex.)',court:'615 E Houston St, San Antonio, TX 78205',phone:'(210) 472-4023',link:'/',linkText:'San Antonio Bankruptcy Guide'};}
   else if(p>=770&&p<=779){d={name:'Southern District of Texas (S.D. Tex.)',court:'515 Rusk St, Houston, TX 77002',phone:'(713) 250-5500',link:'https://houstonbankruptcy.org/',linkText:'Houston Bankruptcy Guide'};}
   else if(p>=750&&p<=759){d={name:'Northern District of Texas (N.D. Tex.)',court:'1100 Commerce St, Dallas, TX 75242',phone:'(214) 753-2000',link:'https://houstonbankruptcy.org/',linkText:'Houston Bankruptcy Guide (closest city guide)'};}
-  else if(p>=760&&p<=769){d={name:'Northern District of Texas (N.D. Tex.) or Western District of Texas (W.D. Tex.)',court:'Check with clerk -- some 76xxx zips are in W.D. Tex. (Waco Division)',phone:'',link:'/',linkText:'San Antonio Bankruptcy Guide'};}
+  else if(p>=760&&p<=769){d={name:'Northern District of Texas (N.D. Tex.) or Western District of Texas (W.D. Tex.)',court:'Check with clerk - some 76xxx zips are in W.D. Tex. (Waco Division)',phone:'',link:'/',linkText:'San Antonio Bankruptcy Guide'};}
   if(d){
     result.innerHTML='<div class="district-result"><h3>'+d.name+'</h3><p>Zip code <strong>'+zip+'</strong> is served by the <strong>'+d.name+'</strong>.</p><div class="courthouse">Courthouse: '+d.court+'</div><div class="link" style="margin-top:12px"><a href="'+d.link+'">'+d.linkText+' &rarr;</a></div></div>';
   }else{
