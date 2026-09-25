@@ -1,5 +1,5 @@
-# San Antonio Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# San Antonio Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free San Antonio bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
@@ -33,11 +33,11 @@ sanantoniobankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyp
 - Bankruptcy in Selma, TX - Filing Guide, Exemptions &amp; Resources - San Antonio: https://sanantoniobankruptcy.org/cities/selma.html
 - Bankruptcy in Universal City, TX - Filing Guide, Exemptions &amp; Resources - San Antonio: https://sanantoniobankruptcy.org/cities/universal-city.html
 - Converting Between Bankruptcy Chapters in San Antonio: https://sanantoniobankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in San Antonio? - Filing Fees, Attorney Fees: https://sanantoniobankruptcy.org/cost.html
+- San Antonio Bankruptcy Cost [2026]: Filing Fees ($338/$313) and W.D. Texas Attorney Fee Norms: https://sanantoniobankruptcy.org/cost.html
 - Bankruptcy by County - San Antonio Metro Area: https://sanantoniobankruptcy.org/counties.html
 - Bankruptcy in Bexar County - San Antonio Bankruptcy Guide: https://sanantoniobankruptcy.org/counties/bexar-county.html
-- Bankruptcy in Comal County - San Antonio Bankruptcy Guide: https://sanantoniobankruptcy.org/counties/comal-county.html
-- Bankruptcy in Guadalupe County - San Antonio Bankruptcy Guide: https://sanantoniobankruptcy.org/counties/guadalupe-county.html
+- Comal County Bankruptcy Filing [2026]: New Braunfels Filers in W.D. Texas San Antonio Division: https://sanantoniobankruptcy.org/counties/comal-county.html
+- Guadalupe County Bankruptcy Filing [2026]: Seguin Filers in W.D. Texas San Antonio Division: https://sanantoniobankruptcy.org/counties/guadalupe-county.html
 - San Antonio Federal Bankruptcy Court Guide - W.D. Texas Filing Information: https://sanantoniobankruptcy.org/court-guide.html
 - Rebuilding Credit After Bankruptcy in San Antonio, Texas: https://sanantoniobankruptcy.org/credit-after-bankruptcy.html
 - Discharging Credit Card Debt in San Antonio Bankruptcy: https://sanantoniobankruptcy.org/credit-card-debt.html
@@ -51,12 +51,12 @@ sanantoniobankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyp
 - Can I Keep My Engagement Ring in Bankruptcy? - San Antonio: https://sanantoniobankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction? - San Antonio: https://sanantoniobankruptcy.org/eviction.html
 - Texas Bankruptcy Exemptions - What You Can Keep - San Antonio: https://sanantoniobankruptcy.org/exemptions.html
-- San Antonio Bankruptcy FAQ - Common Questions Answered: https://sanantoniobankruptcy.org/faq.html
+- San Antonio Bankruptcy FAQ [2026]: W.D. Texas Filing Questions Answered: https://sanantoniobankruptcy.org/faq.html
 - How to Find Out if Someone Filed Bankruptcy - San Antonio: https://sanantoniobankruptcy.org/find-bankruptcy-filing.html
 - Stop Foreclosure in San Antonio, Texas - Bankruptcy Protection: https://sanantoniobankruptcy.org/foreclosure.html
 - Bankruptcy Glossary - San Antonio Terms: https://sanantoniobankruptcy.org/glossary.html
 - Bankruptcy Income Limits in San Antonio: https://sanantoniobankruptcy.org/income-limits.html
-- San Antonio Bankruptcy - Chapter 7 & 13 Filing Guide: https://sanantoniobankruptcy.org/
+- San Antonio Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://sanantoniobankruptcy.org/
 - Judgments and Bankruptcy in San Antonio: https://sanantoniobankruptcy.org/judgments.html
 - Can I Keep My Car in Bankruptcy? - San Antonio, Texas Guide: https://sanantoniobankruptcy.org/keep-your-car.html
 - Can I Keep My House in Bankruptcy? - San Antonio, Texas Guide: https://sanantoniobankruptcy.org/keep-your-house.html
@@ -74,7 +74,7 @@ sanantoniobankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyp
 - Second Mortgages and Bankruptcy in San Antonio: https://sanantoniobankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance - San Antonio: https://sanantoniobankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in San Antonio, Texas - Options for Business Owners: https://sanantoniobankruptcy.org/small-business.html
-- San Antonio Bankruptcy Statistics - 64,677 Cases Analyzed: https://sanantoniobankruptcy.org/statistics.html
+- San Antonio Bankruptcy Statistics [2026]: 64,677 W.D. Texas Cases Analyzed: https://sanantoniobankruptcy.org/statistics.html
 - What Bills Can I Stop Paying Before Filing? - San Antonio: https://sanantoniobankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in San Antonio, Texas: https://sanantoniobankruptcy.org/student-loans.html
 - Surrendering Your Car in Bankruptcy - San Antonio: https://sanantoniobankruptcy.org/surrender-car.html
@@ -86,6 +86,7 @@ sanantoniobankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyp
 - Stop Wage Garnishment in San Antonio, Texas - Bankruptcy Protection: https://sanantoniobankruptcy.org/wage-garnishment.html
 - What to Expect When Filing Bankruptcy in San Antonio - Timeline, 341 Meeting, Discharge: https://sanantoniobankruptcy.org/what-to-expect.html
 - Privacy Policy: https://sanantoniobankruptcy.org/privacy.html
+- About sanantoniobankruptcy.org: https://sanantoniobankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
