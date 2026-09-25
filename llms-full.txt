@@ -572,7 +572,7 @@ Core Requirements
 
 Regular income - W-2, self-employment, Social Security, pension, disability all count
 
-Debts under $2,750,000 (combined)
+Debts under $526,700 unsecured and $1,580,125 secured (combined)
 
 Individual filer - businesses use Chapter 7 or 11
 
@@ -3647,7 +3647,7 @@ Yes. Absolute right under section 1307(a) if not previously converted from Chapt
 
 Can I convert Chapter 7 to Chapter 13?
 
-Yes. One-time right under section 706(a). Must have regular income and debts under $2,750,000.
+Yes. One-time right under section 706(a). Must have regular income and debts under the section 109(e) limits ($526,700 unsecured, $1,580,125 secured).
 
 What happens to payments already made?
 
@@ -4578,7 +4578,7 @@ Exceptions to Discharge
 
 90-day luxury rule: Luxury goods over $800 to a single creditor within 90 days of filing
 
-70-day cash advance rule: Cash advances over $1,100 within 70 days
+70-day cash advance rule: Cash advances over $1,250 within 70 days
 
 Fraud: Charges made with no intent to repay or false credit applications
 
@@ -4596,7 +4596,7 @@ Yes. Texas prohibits consumer wage garnishment. However, creditors with judgment
 
 Are recent charges dischargeable?
 
-Luxury goods over $800 within 90 days and cash advances over $1,100 within 70 days are presumed nondischargeable. The creditor must object.
+Luxury goods over $900 within 90 days and cash advances over $1,250 within 70 days are presumed nondischargeable. The creditor must object.
 
 How much debt do I need to file?
 
@@ -7671,7 +7671,7 @@ A free guide for Texas residents. Filed in W.D. Tex..
 
 What You Need to Know
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 In Texas: Texas provides 100% exemption for qualified retirement accounts with no cap.
 
@@ -7681,7 +7681,7 @@ Frequently Asked Questions
 
 Can I Keep My 401k and Retirement in Bankruptcy?
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 How does this work in Texas?
 
@@ -7920,7 +7920,7 @@ No discharge for the entity - only individuals receive a discharge
 
 Chapter 11 Subchapter V - Small Business Reorganization
 
-Subchapter V (added by the Small Business Reorganization Act of 2019) provides a streamlined reorganization for businesses with less than $7.5 million in debt.
+Subchapter V (added by the Small Business Reorganization Act of 2019) provides a streamlined reorganization for businesses with less than $3,424,000 in debt.
 
 No creditors' committee (lower costs)
 
@@ -7932,7 +7932,7 @@ Only debtor can propose a plan
 
 Chapter 13 - Sole Proprietors
 
-If you are a sole proprietor with less than $2,750,000 in total debt, Chapter 13 lets you reorganize both personal and business debts through a 3-5 year plan while keeping the business operating.
+If you are a sole proprietor with debts under the Chapter 13 limits ($526,700 unsecured, $1,580,125 secured), Chapter 13 lets you reorganize both personal and business debts through a 3-5 year plan while keeping the business operating.
 
 Personal Guarantees
 
